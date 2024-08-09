@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AI based interview application**
 
-- 🌱 I’m currently learning **Music generation**
+- 🌱 I’m currently learning **Diffusion**
 
 - 📫 How to reach me **aditya1123sam@gmail.com**
 
